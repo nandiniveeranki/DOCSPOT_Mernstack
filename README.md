@@ -1,5 +1,11 @@
 # 🩺 DocSpot: Online Appointment Booking System
 DocSpot is a full-stack MERN (MongoDB, Express.js, React, Node.js) application that facilitates online appointment booking between patients and doctors. It provides distinct dashboards for Patients, Doctors, and Admins, enabling seamless medical appointment management.
+## 📂 Project Documents
+
+All the phase-wise documentation and designs are available in the below Drive folder:
+
+👉 [Click here to open Google Drive Folder](https://drive.google.com/drive/folders/1G68KeuxcFx9H5ukCXdyz0wcLMe6G1ALC?usp=drive_link)
+
 
 # Features
 User Authentication – Secure registration and login for Patients, Doctors, and Admins.
